@@ -13,7 +13,7 @@ nav a{
     
 }
 image{
-    width: 300px;
+    width: 200px;
     height: 200px;
     display: block;
 
@@ -26,3 +26,10 @@ image{
   align-items: center;
   padding: 15px 30px;
 }
+      .skip-link {
+    position: absolute;
+    top: -40px; 
+    left: 10px;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 15px;
