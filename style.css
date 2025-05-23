@@ -7,12 +7,12 @@ nav {
 }
 nav a{
     display: inline-block;
-    color:black;
+    color:white;
     text-decoration: none;
     margin:0 20px;
     
 }
-img{
+image{
     width: 300px;
     height: 200px;
     display: block;
