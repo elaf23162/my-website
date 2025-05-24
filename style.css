@@ -38,3 +38,13 @@ header{
          text-decoration: none;
          padding: 14px;
       }
+.gallery {
+  column-count: 2;
+  column-gap: 15px;
+}
+
+.gallery img {
+  width: 100%;
+  margin-bottom: 10px;
+  display: block;
+
