@@ -67,4 +67,11 @@ header{
   color: #fff;
   z-index: 1000;
 }
+.hover-image {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
 
+.hover-image:hover {
+  opacity: 0.6;
+}
